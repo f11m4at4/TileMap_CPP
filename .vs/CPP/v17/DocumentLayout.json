@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projejcts\\Cpp\\CPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96D41A77-4EC6-4BEF-AE0F-33CA6D1FC94A}|CPP\\CPP.vcxproj|C:\\Projejcts\\Cpp\\CPP\\CPP\\TileMap_arraySample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96D41A77-4EC6-4BEF-AE0F-33CA6D1FC94A}|CPP\\CPP.vcxproj|solutionrelative:CPP\\TileMap_arraySample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D41A77-4EC6-4BEF-AE0F-33CA6D1FC94A}|CPP\\CPP.vcxproj|C:\\Projejcts\\Cpp\\CPP\\CPP\\Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96D41A77-4EC6-4BEF-AE0F-33CA6D1FC94A}|CPP\\CPP.vcxproj|solutionrelative:CPP\\Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TileMap_arraySample.cpp",
+              "DocumentMoniker": "C:\\Projejcts\\Cpp\\CPP\\CPP\\TileMap_arraySample.cpp",
+              "RelativeDocumentMoniker": "CPP\\TileMap_arraySample.cpp",
+              "ToolTip": "C:\\Projejcts\\Cpp\\CPP\\CPP\\TileMap_arraySample.cpp",
+              "RelativeToolTip": "CPP\\TileMap_arraySample.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAnwCYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T06:09:53.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Array.cpp",
+              "DocumentMoniker": "C:\\Projejcts\\Cpp\\CPP\\CPP\\Array.cpp",
+              "RelativeDocumentMoniker": "CPP\\Array.cpp",
+              "ToolTip": "C:\\Projejcts\\Cpp\\CPP\\CPP\\Array.cpp",
+              "RelativeToolTip": "CPP\\Array.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T07:33:37.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
